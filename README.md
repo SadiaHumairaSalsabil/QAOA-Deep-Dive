@@ -3,4 +3,9 @@ This repository is dedicated to exploring Quantum Approximate Optimization Algor
 
 For Quantum Algorithms, the references currently being used are: <br>
 https://qiskit-community.github.io/qiskit-algorithms/tutorials/index.html <br>
-https://github.com/OpenQuantumComputing/QAOA/tree/main
+https://github.com/OpenQuantumComputing/QAOA/tree/main <br>
+
+<br>
+
+For theory of QAOA and its variants: <br>
+Blekos, K., Brand, D., Ceschini, A., Chou, C. H., Li, R. H., Pandya, K., & Summer, A. (2024). A review on quantum approximate optimization algorithm and its variants. Physics Reports, 1068, 1-66.
