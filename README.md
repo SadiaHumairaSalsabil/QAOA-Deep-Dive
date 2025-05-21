@@ -5,6 +5,7 @@ For Quantum Algorithms, the references currently being used are: <br>
 https://qiskit-community.github.io/qiskit-algorithms/tutorials/index.html <br>
 https://github.com/OpenQuantumComputing/QAOA/tree/main <br>
 https://pennylane.ai/search?categories=optimization&sort=publication_date&contentType=DEMO <br>
+https://openqaoa.entropicalabs.com/optimizers/gradient-based-optimizers/gradient-based-optimizers/ <br>
 
 <br>
 
